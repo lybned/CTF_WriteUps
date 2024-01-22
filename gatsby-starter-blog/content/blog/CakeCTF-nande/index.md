@@ -1,7 +1,7 @@
 ---
-title: "CTF Writeup for nande from CakeCTF" 
-date: "2023-01-17"
-description: "CTF Writeup"
+title: "CTF Writeup for CakeCTF 2023" 
+date: "2023-01-21"
+description: "CTF Writeup for nande from CakeCTF. Reverse Engineering Challenge."
 ---
 
 Reverse Engineering - 104 points
